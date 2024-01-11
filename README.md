@@ -11,7 +11,7 @@ All you have to do is edit the `application.yml` file. I have listed the **impor
 ``` 
 port: 2333
 address: 0.0.0.0 #If you're going to use it on localhost, keep it.
-password: "youshallnotpass"
+password: "LanZz"
 ```
 
 
